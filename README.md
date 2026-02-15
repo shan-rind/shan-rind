@@ -1,5 +1,5 @@
-## Shan rind blog 
-welcome to my personal blog website!
-this blog contains pictures text and designs and will include moreblog post in future
-built with html 
+# SHAN RIND BLOG  
+Welcome to My Personal Blog Website!
+This Blog contains Pictures,Text and Designs and Will include Moreblog post in Future.
+Built with Html.
 
